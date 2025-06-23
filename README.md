@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Application Development**
+- 🌱 I’m currently learning **Almost Everything (Spring boot actually)**
 
 - 📫 How to reach me **drupd17@gmail.com**
 
